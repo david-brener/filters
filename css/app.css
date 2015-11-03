@@ -1,0 +1,734 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+/*
+ *
+ * Aden
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.aden {
+  filter: hue-rotate(-20deg) contrast(0.9) saturate(0.85) brightness(1.2); }
+  .aden:after {
+    background: linear-gradient(to right, rgba(66, 10, 14, 0.2), transparent);
+    mix-blend-mode: darken; }
+
+/*
+ *
+ * Inkwell
+ *
+ */
+.seven,
+.inkwell {
+  filter: sepia(0.3) contrast(1.1) brightness(1.1) grayscale(1); }
+
+/*
+ *
+ * Perpetua
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.perpetua:after {
+  background: linear-gradient(to bottom, #005b9a, #e6c13d);
+  mix-blend-mode: soft-light;
+  opacity: .5; }
+
+/*
+ *
+ * Reyes
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.reyes {
+  filter: sepia(0.22) brightness(1.1) contrast(0.85) saturate(0.75); }
+  .reyes:after {
+    background: #efcdad;
+    mix-blend-mode: soft-light;
+    opacity: .5; }
+
+/*
+ *
+ * Gingham
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.gingham {
+  filter: brightness(1.05) hue-rotate(-10deg); }
+  .gingham:after {
+    background: linear-gradient(to right, rgba(66, 10, 14, 0.2), transparent);
+    mix-blend-mode: darken; }
+
+/*
+ *
+ * Toaster
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.one,
+.toaster {
+  filter: contrast(1.5) brightness(0.9); }
+  .one:after,
+  .toaster:after {
+    background: radial-gradient(circle, #804e0f, #3b003b);
+    mix-blend-mode: screen; }
+
+/*
+ *
+ * Walden
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.six, .ten,
+.walden {
+  filter: brightness(1.1) hue-rotate(-10deg) sepia(0.3) saturate(1.6); }
+  .six:after, .ten:after,
+  .walden:after {
+    background: #04c;
+    mix-blend-mode: screen;
+    opacity: .3; }
+
+/*
+ *
+ * Hudson
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.eight,
+.hudson {
+  filter: brightness(1.2) contrast(0.9) saturate(1.1); }
+  .eight:after,
+  .hudson:after {
+    background: radial-gradient(circle, #a6b1ff 50%, #342134);
+    mix-blend-mode: multiply;
+    opacity: .5; }
+
+/*
+ *
+ * Earlybird
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.earlybird {
+  filter: contrast(0.9) sepia(0.2); }
+  .earlybird:after {
+    background: radial-gradient(circle, #d0ba8e 20%, #360309 85%, #1d0210 100%);
+    mix-blend-mode: overlay; }
+
+/*
+ *
+ * Mayfair
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.four,
+.mayfair {
+  filter: contrast(1.1) saturate(1.1); }
+  .four:after,
+  .mayfair:after {
+    background: radial-gradient(circle at 40% 40%, rgba(255, 255, 255, 0.8), rgba(255, 200, 200, 0.6), #111 60%);
+    mix-blend-mode: overlay;
+    opacity: .4; }
+
+/*
+ * Lo-fi
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.lofi {
+  filter: saturate(1.1) contrast(1.5); }
+  .lofi:after {
+    background: radial-gradient(circle, transparent 70%, #222 150%);
+    mix-blend-mode: multiply; }
+
+/*
+ * 1977
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.two, .nine,
+._1977 {
+  filter: contrast(1.1) brightness(1.1) saturate(1.3); }
+  .two:after, .nine:after,
+  ._1977:after {
+    background: rgba(243, 106, 188, 0.3);
+    mix-blend-mode: screen; }
+
+/*
+ *
+ * Brooklyn
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.three,
+.brooklyn {
+  filter: contrast(0.9) brightness(1.1); }
+  .three:after,
+  .brooklyn:after {
+    background: radial-gradient(circle, rgba(168, 223, 193, 0.4) 70%, #c4b7c8);
+    mix-blend-mode: overlay; }
+
+/*
+ *
+ * X-Pro II
+ *
+ */
+.aden,
+.perpetua,
+.reyes,
+.gingham, .one,
+.toaster, .six, .ten,
+.walden, .eight,
+.hudson,
+.earlybird, .four,
+.mayfair,
+.lofi, .two, .nine,
+._1977, .three,
+.brooklyn, .five,
+.xpro2 {
+  position: relative; }
+  .aden:after,
+  .perpetua:after,
+  .reyes:after,
+  .gingham:after, .one:after,
+  .toaster:after, .six:after, .ten:after,
+  .walden:after, .eight:after,
+  .hudson:after,
+  .earlybird:after, .four:after,
+  .mayfair:after,
+  .lofi:after, .two:after, .nine:after,
+  ._1977:after, .three:after,
+  .brooklyn:after, .five:after,
+  .xpro2:after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    pointer-events: none; }
+
+.five,
+.xpro2 {
+  filter: sepia(0.3); }
+  .five:after,
+  .xpro2:after {
+    background: radial-gradient(circle, #E6E7E0 40%, rgba(43, 42, 161, 0.6) 110%);
+    mix-blend-mode: color-burn; }
+
+* {
+  box-sizing: border-box; }
+
+h1,
+p {
+  color: #000; }
+
+p {
+  font-family: 'Lato', sans-serif; }
+
+.parent {
+  display: flex;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  /* Safari */
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-between;
+  flex-grow: 1; }
+
+ul {
+  padding: 10px 0 10px 0;
+  margin: 0; }
+
+li {
+  list-style: none; }
+
+.one,
+.two,
+.three,
+.four,
+.five,
+.six,
+.seven,
+.eight,
+.nine,
+.ten {
+  margin-bottom: 10px; }
+
+.one,
+.two,
+.three,
+.four,
+.five {
+  margin-top: 10px; }
+
+.left-column {
+  padding-left: 0px;
+  margin-top: 10px; }
+  .left-column p {
+    color: #000;
+    font-weight: normal; }
+
+.right-column {
+  margin-top: 10px; }
+  .right-column p {
+    color: #000; }
+
+.hello {
+  margin-bottom: 10px; }
+
+/*# sourceMappingURL=app.css.map */
